@@ -10,3 +10,5 @@ step2: pip install requirements.txt
 
 step3: python manage.py runserver
 
+if any issue face let me know 
+
