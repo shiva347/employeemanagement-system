@@ -1,4 +1,4 @@
-# jaiinfoway_employeemanagement
+# Employee Management Syateam
 
 #please read api documentation where i mention every thing and i also add api request body as well as response bobdy
 
